@@ -1,0 +1,110 @@
+{
+ "version": 1,
+ "generated": "2026-11-26T07:38:42Z",
+ "chats": [
+  {
+   "id": -1004458490919,
+   "type": "supergroup",
+   "title": "(older record)",
+   "username": "",
+   "added_by": {},
+   "first_seen": "2026-11-26T07:37:51Z",
+   "last_seen": "2026-11-26T07:37:51Z",
+   "status": "active",
+   "last_error": ""
+  },
+  {
+   "id": 8623137616,
+   "type": "private",
+   "title": "(older record)",
+   "username": "",
+   "added_by": {},
+   "first_seen": "2026-11-26T07:37:51Z",
+   "last_seen": "2026-11-26T07:37:51Z",
+   "status": "active",
+   "last_error": ""
+  },
+  {
+   "id": -1002386132084,
+   "type": "supergroup",
+   "title": "(older record)",
+   "username": "",
+   "added_by": {},
+   "first_seen": "2026-11-26T07:37:51Z",
+   "last_seen": "2026-11-26T07:37:51Z",
+   "status": "active",
+   "last_error": ""
+  },
+  {
+   "id": -1004364546265,
+   "type": "supergroup",
+   "title": "(older record)",
+   "username": "",
+   "added_by": {},
+   "first_seen": "2026-11-26T07:37:51Z",
+   "last_seen": "2026-11-26T07:37:51Z",
+   "status": "active",
+   "last_error": ""
+  },
+  {
+   "id": 9274314556,
+   "type": "private",
+   "title": "(older record)",
+   "username": "",
+   "added_by": {},
+   "first_seen": "2026-11-26T07:37:51Z",
+   "last_seen": "2026-11-26T07:37:51Z",
+   "status": "active",
+   "last_error": ""
+  },
+  {
+   "id": -1003655968342,
+   "type": "supergroup",
+   "title": "(older record)",
+   "username": "",
+   "added_by": {},
+   "first_seen": "2026-11-26T07:37:51Z",
+   "last_seen": "2026-11-26T07:37:51Z",
+   "status": "active",
+   "last_error": ""
+  },
+  {
+   "id": -1004471990399,
+   "type": "supergroup",
+   "title": "(older record)",
+   "username": "",
+   "added_by": {},
+   "first_seen": "2026-11-26T07:37:51Z",
+   "last_seen": "2026-11-26T07:37:51Z",
+   "status": "active",
+   "last_error": ""
+  },
+  {
+   "id": -1005683920304,
+   "type": "supergroup",
+   "title": "𝐑𝐞𝐳𝐞 & 𝐅𝐚𝐦𝐢𝐥𝐲𝐡𝐨𝐨𝐝",
+   "username": "RezeFamily",
+   "added_by": {},
+   "first_seen": "2026-11-26T07:37:51Z",
+   "last_seen": "2026-11-26T07:38:41Z",
+   "status": "active",
+   "last_error": ""
+  },
+  {
+   "id": 8837432063,
+   "type": "private",
+   "title": "(older record)",
+   "username": "",
+   "added_by": {},
+   "first_seen": "2026-11-26T07:37:51Z",
+   "last_seen": "2026-11-26T07:37:51Z",
+   "status": "active",
+   "last_error": ""
+  }
+ ],
+ "removed": {},
+ "meta": {
+  "last_daily": "2026-11-26",
+  "shares": []
+ }
+}
