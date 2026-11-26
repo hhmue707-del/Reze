@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-26T07:44:00Z",
+ "generated": "2026-11-26T07:44:41Z",
  "chats": [
   {
    "id": -1004458490919,
@@ -16,17 +16,6 @@
   {
    "id": 8623137616,
    "type": "private",
-   "title": "(older record)",
-   "username": "",
-   "added_by": {},
-   "first_seen": "2026-11-26T07:37:51Z",
-   "last_seen": "2026-11-26T07:37:51Z",
-   "status": "active",
-   "last_error": ""
-  },
-  {
-   "id": -1002386132084,
-   "type": "supergroup",
    "title": "(older record)",
    "username": "",
    "added_by": {},
@@ -86,25 +75,37 @@
    "username": "RezeFamily",
    "added_by": {},
    "first_seen": "2026-11-26T07:37:51Z",
-   "last_seen": "2026-11-26T07:43:52Z",
+   "last_seen": "2026-11-26T07:44:38Z",
    "status": "active",
    "last_error": ""
   },
   {
    "id": 8837432063,
    "type": "private",
-   "title": "(older record)",
-   "username": "",
+   "title": "Dean",
+   "username": "DeanOfc",
    "added_by": {},
    "first_seen": "2026-11-26T07:37:51Z",
-   "last_seen": "2026-11-26T07:37:51Z",
+   "last_seen": "2026-11-26T07:44:38Z",
    "status": "active",
    "last_error": ""
   }
  ],
- "removed": {},
+ "removed": {
+  "-1002386132084": {
+   "when": "2026-11-26T07:44:40Z",
+   "name": "(older record)"
+  }
+ },
  "meta": {
   "last_daily": "2026-11-26",
-  "shares": []
+  "shares": [
+   {
+    "time": "2026-11-26T07:44:19Z",
+    "ok": 7,
+    "failed": 1,
+    "items": 1
+   }
+  ]
  }
 }
