@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-26T07:44:41Z",
+ "generated": "2026-11-26T07:48:33Z",
  "chats": [
   {
    "id": -1004458490919,
@@ -9,7 +9,7 @@
    "username": "BloomingHeartsWorld419",
    "added_by": {},
    "first_seen": "2026-11-26T07:37:51Z",
-   "last_seen": "2026-11-26T07:43:43Z",
+   "last_seen": "2026-11-26T07:45:07Z",
    "status": "active",
    "last_error": ""
   },
@@ -75,7 +75,7 @@
    "username": "RezeFamily",
    "added_by": {},
    "first_seen": "2026-11-26T07:37:51Z",
-   "last_seen": "2026-11-26T07:44:38Z",
+   "last_seen": "2026-11-26T07:46:13Z",
    "status": "active",
    "last_error": ""
   },
@@ -86,7 +86,18 @@
    "username": "DeanOfc",
    "added_by": {},
    "first_seen": "2026-11-26T07:37:51Z",
-   "last_seen": "2026-11-26T07:44:38Z",
+   "last_seen": "2026-11-26T07:46:41Z",
+   "status": "active",
+   "last_error": ""
+  },
+  {
+   "id": 6646491795,
+   "type": "private",
+   "title": "𝐀𝐩𝐨𝐥𝐥𝐨",
+   "username": "",
+   "added_by": {},
+   "first_seen": "2026-11-26T07:48:07Z",
+   "last_seen": "2026-11-26T07:48:07Z",
    "status": "active",
    "last_error": ""
   }
